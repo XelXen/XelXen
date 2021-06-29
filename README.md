@@ -2,7 +2,7 @@
 
 ### Social
 
-<p align="left">
+<p align="center">
 <a href="https://t.me/XelXen" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://forum.xda-developers.com/m/xelxen.11603725/" target="blank"><img align="center" src="https://img.shields.io/badge/Xda-FE7A16?style=flat&logo=xda-developers&logoColor=white" alt="xda" /></a>
 </p>
