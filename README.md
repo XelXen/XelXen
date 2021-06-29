@@ -1,13 +1,16 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋 I am Mustafa</h1>
 
-### Social
+- 📱 I like custom Recoveries and I am currently an official maintainer in OrangeFox Recovery Project.
+- 🌱 I’m currently learning Python.
 
-<p align="center">
+### 🤝🏻 Social
+
+<p align="left">
 <a href="https://t.me/XelXen" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://forum.xda-developers.com/m/xelxen.11603725/" target="blank"><img align="center" src="https://img.shields.io/badge/Xda-FE7A16?style=flat&logo=xda-developers&logoColor=white" alt="xda" /></a>
 </p>
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/XelXen">
