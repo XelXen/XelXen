@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👋 I am XelXen</h1>
 
-- 📱 I like custom Recoveries and I am currently an official maintainer in OrangeFox Recovery Project.
-- 🌱 I’m currently learning Python.
+- 📱 I like Android development, Coding, Designing and being a Noobie
+- 🌱 I’m currently learning Linux.
 
 ### 🤝🏻 Social
 
