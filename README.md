@@ -1,6 +1,8 @@
 <p align="center">
-<img src="xelxen.png" width="max-content" height="auto"/>
+  <img src="xelxen.png" width="max-content" height="auto"/>
 </p>
-<p><a href='https://xelxen.github.io/dino' align="center">
-<img src="xelxen.png" width="max-content" height="auto"/>
-</a></p>
+<p align="center">
+  <a href='https://xelxen.github.io/dino
+    <img src="dino.gif" width="max-content" height="auto"/>
+  </a>
+</p>
