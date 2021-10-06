@@ -1,4 +1,6 @@
 <p align="center">
 <img src="xelxen.png" width="max-content" height="auto"/>
 </p>
-<a href='chrome://dino'>Dino</a>
+<p><a href='https://xelxen.github.io/dino' align="center">
+<img src="xelxen.png" width="max-content" height="auto"/>
+</a></p>
