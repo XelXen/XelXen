@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="XelXen.svg" width="max-content" height="auto"/>
+  <img src="XelXen.png" width="max-content" height="auto"/>
 </p>
